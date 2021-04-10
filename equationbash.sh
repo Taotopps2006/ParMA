@@ -1,8 +1,7 @@
 #! /bin/bash
 
 # File: equationbash.sh
-# Author: otawose@nevada.unr.edu
-# Date: 2/4/2019
+#  Date:   1/3/2021
 # Desc: bash script to run PyMP Implementation on the Z820 server 
 #                      How to run scipt
 # chmod +x equationbash.sh
