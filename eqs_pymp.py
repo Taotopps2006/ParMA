@@ -1,7 +1,6 @@
 '''
     File:   eqs_pymp.py
-    Author: otawose@nevada.unr.edu
-    Date:   12/30/2018
+     Date:   1/3/2021
     Desc:   Generate all possible equations given a N*N two-dimensional circuit grid, based on Kirchhoff Circuit Law
             This also records the total time taken to generate the equations only
     Approach: Using the pymp package (the openMP-like functionality for python) in order to achieve automatic parallelism for the nested loop
