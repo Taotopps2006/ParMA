@@ -1,4 +1,4 @@
-# R environment preparation
+# R environment preparation 
 rm(list=ls())    # clears all variables declared in the memory
 
 # installing required packages
