@@ -2,7 +2,7 @@
     File:   eqs_divideNP2.py
     Date:   1/3/2021
     Desc:   Generate all possible equations given a N*N two-dimensional circuit grid, based on Kirchhoff Circuit Law
-    Approach: Using the Python multiprocessing module to acheive parallelism
+    Approach: Using the Python multiprocessing module to acheive parallelism.
 '''
 
 import sys
