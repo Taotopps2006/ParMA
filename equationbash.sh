@@ -2,7 +2,7 @@
 
 # File: equationbash.sh
 #  Date:   1/3/2021
-# Desc: bash script to run PyMP Implementation on the Z820 server 
+# Desc: bash script to run PyMP Implementation on the Z820 server .
 #                      How to run scipt
 # chmod +x equationbash.sh
 # ./equationbash.sh 
