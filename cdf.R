@@ -94,7 +94,7 @@ cdf20<- ggplot(ggdata2, aes(x=value)) + stat_ecdf(aes(colour=PyMP),lwd=1.2) +
         legend.margin = margin(0.25, 0.05, 6, 0.25),
         panel.background = element_rect(fill = "white", colour = "black")) +
   guides(col = guide_legend(ncol =6))
-# Generate the CDF.
+# Generate the CDF..
 cdf20
 
 # Melt the data frame
