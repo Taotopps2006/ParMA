@@ -40,7 +40,7 @@ def fill_index(i, j, k, m, n, eq):
     return res 
 
 # Generate the equations between the i-th row and the j-th column
-# Each i-j combination yields 2N equations
+# Each i-j combination yields 2N equations.
 def eqs_gen_ij(n):
     # Generate the equations for the entire grid
     # There are n^2 groups of equations
