@@ -2,7 +2,7 @@
 
 # File: memory.sh
 #     Date:   1/3/2021
-# Desc: bash script to observe the peak (i.e. the highest) memory usage and the time-based memory usage (at an interval of 0.1 seconds) for threads per specified rank in the various levels of parallelismin PyMP
+# Desc: bash script to observe the peak (i.e. the highest) memory usage and the time-based memory usage (at an interval of 0.1 seconds) for threads per specified rank in the various levels of parallelismin PyMP.
 #                      How to run scipt
 # stary by installing the  python memory profiler module using "pip install memory-profiler"
 # chmod +x memory.sh 
