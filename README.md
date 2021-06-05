@@ -7,7 +7,7 @@ Install the following packages or libraries to run the code:
 - SciPy 0.17.0
 - PyMP v0.4.2 (https://github.com/classner/pymp)
 - Python v3.7.0
-- memory profiler (https://pypi.org/project/memory-profiler/)
+- Memory Profiler (https://pypi.org/project/memory-profiler/)
 
 ## To Run code via the terminal
 Run the equationbash.sh script as follows:
